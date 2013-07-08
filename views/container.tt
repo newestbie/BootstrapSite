@@ -1,0 +1,8 @@
+    <div class="container-fluid">
+
+        : block main -> {
+        : }
+
+        : include footer
+    
+    </div><!--/.fluid-container-->
